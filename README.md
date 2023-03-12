@@ -22,7 +22,7 @@ To run the application locally, follow the steps below:
 # Clone the repository
 * bash
 * Copy code
-* git clone https://github.com/your-username/react-login-system.git
+* git clone [https://github.com/Muhammad-Afnan-Akram/Login-using-React.git]
 * Install the dependencies
 * Copy code
 * npm install
