@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.notify{
+  margin-top: 50px;
+  position:absolute;
+  margin-left: 44%;
+
+}
+.formstyle {
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+  padding-top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
