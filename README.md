@@ -12,21 +12,21 @@ User can log out of the application
 # Technologies Used
 The following are the technologies used to build the login system:
 
-React JS
-Bootstrap
-Firebase Authentication
-Firebase Realtime Database
+* React JS
+* Bootstrap
+* Firebase Authentication
+* Firebase Realtime Database
 # Installation
 To run the application locally, follow the steps below:
 
 # Clone the repository
-bash
-Copy code
-git clone https://github.com/your-username/react-login-system.git
-Install the dependencies
-Copy code
-npm install
-Create a new Firebase project and add the project credentials to the .env file as shown in the .env.example file
+* bash
+* Copy code
+* git clone https://github.com/your-username/react-login-system.git
+* Install the dependencies
+* Copy code
+* npm install
+* Create a new Firebase project and add the project credentials to the .env file as shown in the .env.example file
 
 # Start the development server
 
